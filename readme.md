@@ -22,7 +22,7 @@ Music Player App is a user-friendly application designed to help you manage and 
 
 ### Option 1: Download using Winget (Recommended for Windows)
 
-To download and install WL Downloader on Windows using Winget, use the following command:
+To download and install WL Music on Windows using Winget, use the following command:
 
 ```sh
 winget install wl-std.WLMusic
@@ -30,13 +30,13 @@ winget install wl-std.WLMusic
 
 ### Option 2: Download from European Server (Windows)
 
-Download the latest version of WL Downloader for Windows from our European server:
+Download the latest version of WL Music for Windows from our European server:
 
 > [🌍 Download from Europe](https://dl1.wl-std.com/WL%20Music%20Installer.exe)
 
 ### Option 3: Download from Iranian Server (Windows)
 
-Download the latest version of WL Downloader for Windows from our Iranian server:
+Download the latest version of WL Music for Windows from our Iranian server:
 
 > [🌍 Download from Iran](https://dl2.wl-std.com/WL%20Music%20Installer.exe)
 
