@@ -14,7 +14,7 @@ Music Player App is a user-friendly application designed to help you manage and 
 - 🎶 Play your favorite music files
 - 🎛️ Support for multiple audio formats
 - 🎨 Customizable themes
-- ⏯️ Play, pause, and stop playback
+- ⏯️ Play, pause,skip, and stop playback
 - 🔄 Shuffle and loop playback
 - 📂 Organize and manage your music library
 
