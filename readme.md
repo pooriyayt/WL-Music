@@ -38,13 +38,18 @@ Download the latest version of WL Music for Windows from our European server:
 
 We offer two download options from Iranian servers:
 
-- **Tehran Server (Full-Cost Traffic - ترافیک تمام بها):**
+- **Tehran-Bamdad Server (Full-Cost Traffic - ترافیک تمام بها):**
 
   > [🌍 Download from Tehran](https://dl2.wl-std.com/WL%20Music%20Installer.exe)
 
-- **Tabriz Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
+- **Tehran-Simin Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
 
-  > [🌍 Download from Tabriz](https://dl3.wl-std.com/?file=WL%20Music%20Installer.exe)
+  > [🌍 Download from Tabriz](https://dl3.wl-std.com/?file=WL%20Music%20Installer.exe&sv=thr)
+
+- **Tabriz-Shahriar Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
+
+  > [🌍 Download from Tabriz](https://dl3.wl-std.com/?file=WL%20Music%20Installer.exe&sv=tbz)
+
 
 - 🖥️ **Linux version coming soon!** Stay tuned for updates.
 
