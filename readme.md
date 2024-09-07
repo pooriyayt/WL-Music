@@ -44,7 +44,7 @@ We offer three download options from Iranian servers:
 
 - **Tehran-Simin Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
 
-  > [🌍 Download from Tabriz](https://dl3.wl-std.com/?file=WL%20Music%20Installer.exe&sv=thr)
+  > [🌍 Download from Tehran](https://dl3.wl-std.com/?file=WL%20Music%20Installer.exe&sv=thr)
 
 - **Tabriz-Shahriar Server (Half-Cost Traffic for Iran - ترافیک نیم بها برای ایران):**
 
