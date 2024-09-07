@@ -36,7 +36,7 @@ Download the latest version of WL Music for Windows from our European server:
 
 ### Option 3: Download from Iranian Servers (Windows)
 
-We offer two download options from Iranian servers:
+We offer three download options from Iranian servers:
 
 - **Tehran-Bamdad Server (Full-Cost Traffic - ترافیک تمام بها):**
 
